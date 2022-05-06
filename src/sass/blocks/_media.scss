@@ -1,0 +1,43 @@
+@media (max-width: 1200px){
+.header{
+   justify-content: space-around;  
+}
+.promo__wrapper{
+    align-items:center;
+} 
+.title_left{
+    text-align: center;
+}
+.consultation__descr{
+    text-align: center;
+}
+.feed-form{
+    margin: 0 auto;
+    margin-top: 36px;
+}
+}
+@media (max-width: 575px){
+    .header{
+        justify-content: space-around;  
+     }
+    .header__logo{
+      width: 190px;
+    }
+    .header__official{
+        font-size: 10px;
+    }
+    .header__official span{
+        font-size: 14px;
+    }
+    .header__phone{
+        font-size: 16px;
+    }
+    .advantages__subtitle
+    {
+        font-size: 15px;
+    } 
+    .advantages__descr{
+        font-size: 13px;
+    }
+    
+}
