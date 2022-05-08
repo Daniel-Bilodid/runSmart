@@ -8,4 +8,11 @@
         line-height: 30px;
         color: #FFFFFF;
     }
+    .error{
+        color:white;
+        border:1px solid red;
+    }
+    label.error{
+        border: none;
+    }
 }
